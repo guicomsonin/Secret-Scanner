@@ -15,7 +15,7 @@ pip install secretscanner
 Or, from source:
 
 ```bash
-git clone https://github.com/your-user/secretscanner.git
+git clone https://github.com/guicomsonin/Secret-Scanner
 cd secretscanner
 pip install -e .
 ```
